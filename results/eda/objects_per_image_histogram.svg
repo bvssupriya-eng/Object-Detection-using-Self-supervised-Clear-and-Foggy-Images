@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="white" />
+<text x="600.0" y="36" text-anchor="middle" font-size="24" font-family="Arial" fill="#111827">Selected Objects per Image</text>
+<line x1="95" y1="530" x2="1160" y2="530" stroke="#374151" stroke-width="2"/>
+<line x1="95" y1="70" x2="95" y2="530" stroke="#374151" stroke-width="2"/>
+<line x1="89" y1="530.0" x2="1160" y2="530.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="535.0" text-anchor="end" font-size="12" font-family="Arial" fill="#4b5563">0</text>
+<line x1="89" y1="438.0" x2="1160" y2="438.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="443.0" text-anchor="end" font-size="12" font-family="Arial" fill="#4b5563">152</text>
+<line x1="89" y1="346.0" x2="1160" y2="346.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="351.0" text-anchor="end" font-size="12" font-family="Arial" fill="#4b5563">304</text>
+<line x1="89" y1="254.0" x2="1160" y2="254.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="259.0" text-anchor="end" font-size="12" font-family="Arial" fill="#4b5563">455</text>
+<line x1="89" y1="162.0" x2="1160" y2="162.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="167.0" text-anchor="end" font-size="12" font-family="Arial" fill="#4b5563">607</text>
+<line x1="89" y1="70.0" x2="1160" y2="70.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="75.0" text-anchor="end" font-size="12" font-family="Arial" fill="#4b5563">759</text>
+<text x="24" y="300.0" transform="rotate(-90 24 300.0)" text-anchor="middle" font-size="16" font-family="Arial" fill="#111827">Image Count</text>
+<rect x="98.0" y="390.6060606060606" width="36.6" height="139.3939393939394" fill="#0f766e" />
+<text x="116.3" y="564" text-anchor="end" transform="rotate(-35 116.3 564)" font-size="11" font-family="Arial" fill="#111827">0.000-4.800</text>
+<rect x="140.6" y="196.66666666666669" width="36.6" height="333.3333333333333" fill="#0f766e" />
+<text x="158.9" y="564" text-anchor="end" transform="rotate(-35 158.9 564)" font-size="11" font-family="Arial" fill="#111827">4.800-9.600</text>
+<rect x="183.2" y="70.0" width="36.6" height="460.0" fill="#0f766e" />
+<text x="201.5" y="564" text-anchor="end" transform="rotate(-35 201.5 564)" font-size="11" font-family="Arial" fill="#111827">9.600-14.400</text>
+<rect x="225.8" y="112.42424242424244" width="36.6" height="417.57575757575756" fill="#0f766e" />
+<text x="244.10000000000002" y="564" text-anchor="end" transform="rotate(-35 244.10000000000002 564)" font-size="11" font-family="Arial" fill="#111827">14.400-19.200</text>
+<rect x="268.4" y="287.57575757575756" width="36.6" height="242.42424242424244" fill="#0f766e" />
+<text x="286.7" y="564" text-anchor="end" transform="rotate(-35 286.7 564)" font-size="11" font-family="Arial" fill="#111827">19.200-24.000</text>
+<rect x="311.0" y="327.5757575757576" width="36.6" height="202.4242424242424" fill="#0f766e" />
+<text x="329.3" y="564" text-anchor="end" transform="rotate(-35 329.3 564)" font-size="11" font-family="Arial" fill="#111827">24.000-28.800</text>
+<rect x="353.6" y="405.1515151515151" width="36.6" height="124.84848484848486" fill="#0f766e" />
+<text x="371.90000000000003" y="564" text-anchor="end" transform="rotate(-35 371.90000000000003 564)" font-size="11" font-family="Arial" fill="#111827">28.800-33.600</text>
+<rect x="396.2" y="457.27272727272725" width="36.6" height="72.72727272727273" fill="#0f766e" />
+<text x="414.5" y="564" text-anchor="end" transform="rotate(-35 414.5 564)" font-size="11" font-family="Arial" fill="#111827">33.600-38.400</text>
+<rect x="438.8" y="483.93939393939394" width="36.6" height="46.060606060606055" fill="#0f766e" />
+<text x="457.1" y="564" text-anchor="end" transform="rotate(-35 457.1 564)" font-size="11" font-family="Arial" fill="#111827">38.400-43.200</text>
+<rect x="481.40000000000003" y="507.57575757575756" width="36.6" height="22.424242424242426" fill="#0f766e" />
+<text x="499.70000000000005" y="564" text-anchor="end" transform="rotate(-35 499.70000000000005 564)" font-size="11" font-family="Arial" fill="#111827">43.200-48.000</text>
+<rect x="524.0" y="513.030303030303" width="36.6" height="16.96969696969697" fill="#0f766e" />
+<text x="542.3" y="564" text-anchor="end" transform="rotate(-35 542.3 564)" font-size="11" font-family="Arial" fill="#111827">48.000-52.800</text>
+<rect x="566.6" y="522.7272727272727" width="36.6" height="7.2727272727272725" fill="#0f766e" />
+<text x="584.9" y="564" text-anchor="end" transform="rotate(-35 584.9 564)" font-size="11" font-family="Arial" fill="#111827">52.800-57.600</text>
+<rect x="609.2" y="523.3333333333334" width="36.6" height="6.666666666666667" fill="#0f766e" />
+<text x="627.5" y="564" text-anchor="end" transform="rotate(-35 627.5 564)" font-size="11" font-family="Arial" fill="#111827">57.600-62.400</text>
+<rect x="651.8000000000001" y="525.7575757575758" width="36.6" height="4.242424242424242" fill="#0f766e" />
+<text x="670.1" y="564" text-anchor="end" transform="rotate(-35 670.1 564)" font-size="11" font-family="Arial" fill="#111827">62.400-67.200</text>
+<rect x="694.4" y="528.7878787878788" width="36.6" height="1.2121212121212122" fill="#0f766e" />
+<text x="712.6999999999999" y="564" text-anchor="end" transform="rotate(-35 712.6999999999999 564)" font-size="11" font-family="Arial" fill="#111827">67.200-72.000</text>
+<rect x="737.0" y="526.969696969697" width="36.6" height="3.0303030303030303" fill="#0f766e" />
+<text x="755.3" y="564" text-anchor="end" transform="rotate(-35 755.3 564)" font-size="11" font-family="Arial" fill="#111827">72.000-76.800</text>
+<rect x="779.6" y="529.3939393939394" width="36.6" height="1" fill="#0f766e" />
+<text x="797.9" y="564" text-anchor="end" transform="rotate(-35 797.9 564)" font-size="11" font-family="Arial" fill="#111827">76.800-81.600</text>
+<rect x="822.2" y="528.7878787878788" width="36.6" height="1.2121212121212122" fill="#0f766e" />
+<text x="840.5" y="564" text-anchor="end" transform="rotate(-35 840.5 564)" font-size="11" font-family="Arial" fill="#111827">81.600-86.400</text>
+<rect x="864.8000000000001" y="529.3939393939394" width="36.6" height="1" fill="#0f766e" />
+<text x="883.1" y="564" text-anchor="end" transform="rotate(-35 883.1 564)" font-size="11" font-family="Arial" fill="#111827">86.400-91.200</text>
+<rect x="907.4" y="529.3939393939394" width="36.6" height="1" fill="#0f766e" />
+<text x="925.6999999999999" y="564" text-anchor="end" transform="rotate(-35 925.6999999999999 564)" font-size="11" font-family="Arial" fill="#111827">91.200-96.000</text>
+<rect x="950.0" y="530.0" width="36.6" height="1" fill="#0f766e" />
+<text x="968.3" y="564" text-anchor="end" transform="rotate(-35 968.3 564)" font-size="11" font-family="Arial" fill="#111827">96.000-100.800</text>
+<rect x="992.6" y="528.7878787878788" width="36.6" height="1.2121212121212122" fill="#0f766e" />
+<text x="1010.9" y="564" text-anchor="end" transform="rotate(-35 1010.9 564)" font-size="11" font-family="Arial" fill="#111827">100.800-105.600</text>
+<rect x="1035.2" y="530.0" width="36.6" height="1" fill="#0f766e" />
+<text x="1053.5" y="564" text-anchor="end" transform="rotate(-35 1053.5 564)" font-size="11" font-family="Arial" fill="#111827">105.600-110.400</text>
+<rect x="1077.8000000000002" y="529.3939393939394" width="36.6" height="1" fill="#0f766e" />
+<text x="1096.1000000000001" y="564" text-anchor="end" transform="rotate(-35 1096.1000000000001 564)" font-size="11" font-family="Arial" fill="#111827">110.400-115.200</text>
+<rect x="1120.4" y="529.3939393939394" width="36.6" height="1" fill="#0f766e" />
+<text x="1138.7" y="564" text-anchor="end" transform="rotate(-35 1138.7 564)" font-size="11" font-family="Arial" fill="#111827">115.200-120.000</text>
+</svg>

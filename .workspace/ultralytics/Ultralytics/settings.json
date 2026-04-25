@@ -1,0 +1,21 @@
+{
+  "settings_version": "0.0.6",
+  "datasets_dir": "C:\\MachineVision\\datasets",
+  "weights_dir": "weights",
+  "runs_dir": "runs",
+  "uuid": "5e9634211658ce5fc7d89a2bf513a421dbdd8d830b2189013285e1e857f0251d",
+  "sync": true,
+  "api_key": "",
+  "openai_api_key": "",
+  "clearml": true,
+  "comet": true,
+  "dvc": true,
+  "hub": true,
+  "mlflow": true,
+  "neptune": true,
+  "raytune": true,
+  "tensorboard": false,
+  "wandb": false,
+  "vscode_msg": true,
+  "openvino_msg": true
+}

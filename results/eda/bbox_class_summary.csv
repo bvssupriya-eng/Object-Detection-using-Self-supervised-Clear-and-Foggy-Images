@@ -1,0 +1,8 @@
+class_name,mean_bbox_width,mean_bbox_height,mean_bbox_area_ratio
+person,43.534,104.492,0.003874
+rider,55.467,112.204,0.004823
+car,119.604,98.089,0.010449
+truck,163.378,145.043,0.02128
+bus,219.725,143.64,0.024363
+motorcycle,93.059,100.755,0.007068
+bicycle,75.314,87.088,0.004822

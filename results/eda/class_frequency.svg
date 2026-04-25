@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="white" />
+<text x="600.0" y="36" text-anchor="middle" font-size="24" font-family="Arial" fill="#111827">Cityscapes Selected Class Frequency</text>
+<line x1="95" y1="550" x2="1160" y2="550" stroke="#374151" stroke-width="2"/>
+<line x1="95" y1="70" x2="95" y2="550" stroke="#374151" stroke-width="2"/>
+<line x1="89" y1="550.0" x2="1160" y2="550.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="555.0" text-anchor="end" font-size="12" font-family="Arial" fill="#4b5563">0</text>
+<line x1="89" y1="454.0" x2="1160" y2="454.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="459.0" text-anchor="end" font-size="12" font-family="Arial" fill="#4b5563">6364</text>
+<line x1="89" y1="358.0" x2="1160" y2="358.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="363.0" text-anchor="end" font-size="12" font-family="Arial" fill="#4b5563">12729</text>
+<line x1="89" y1="262.0" x2="1160" y2="262.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="267.0" text-anchor="end" font-size="12" font-family="Arial" fill="#4b5563">19093</text>
+<line x1="89" y1="166.0" x2="1160" y2="166.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="171.0" text-anchor="end" font-size="12" font-family="Arial" fill="#4b5563">25458</text>
+<line x1="89" y1="70.0" x2="1160" y2="70.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="75.0" text-anchor="end" font-size="12" font-family="Arial" fill="#4b5563">31822</text>
+<text x="24" y="310.0" transform="rotate(-90 24 310.0)" text-anchor="middle" font-size="16" font-family="Arial" fill="#111827">Object Count</text>
+<rect x="147.07142857142856" y="278.5802275155553" width="48" height="271.4197724844447" fill="#2563eb" />
+<rect x="147.07142857142856" y="227.00835899692038" width="48" height="51.571868518634915" fill="#f59e0b" />
+<text x="171.07142857142856" y="578" text-anchor="end" transform="rotate(-20 171.07142857142856 578)" font-size="13" font-family="Arial" fill="#111827">person</text>
+<rect x="299.2142857142857" y="522.7433850795047" width="48" height="27.25661492049528" fill="#2563eb" />
+<rect x="299.2142857142857" y="514.356734334737" width="48" height="8.386650744767735" fill="#f59e0b" />
+<text x="323.2142857142857" y="578" text-anchor="end" transform="rotate(-20 323.2142857142857 578)" font-size="13" font-family="Arial" fill="#111827">rider</text>
+<rect x="451.35714285714283" y="140.3965809817107" width="48" height="409.6034190182893" fill="#2563eb" />
+<rect x="451.35714285714283" y="70.0" width="48" height="70.39658098171071" fill="#f59e0b" />
+<text x="475.35714285714283" y="578" text-anchor="end" transform="rotate(-20 475.35714285714283 578)" font-size="13" font-family="Arial" fill="#111827">car</text>
+<rect x="603.5" y="542.6239708377852" width="48" height="7.376029162214763" fill="#2563eb" />
+<rect x="603.5" y="541.2211677455848" width="48" height="1.402803092200429" fill="#f59e0b" />
+<text x="627.5" y="578" text-anchor="end" transform="rotate(-20 627.5 578)" font-size="13" font-family="Arial" fill="#111827">truck</text>
+<rect x="755.6428571428571" y="544.1926968763748" width="48" height="5.807303123625161" fill="#2563eb" />
+<rect x="755.6428571428571" y="542.7144742630884" width="48" height="1.478222613286448" fill="#f59e0b" />
+<text x="779.6428571428571" y="578" text-anchor="end" transform="rotate(-20 779.6428571428571 578)" font-size="13" font-family="Arial" fill="#111827">bus</text>
+<rect x="907.7857142857142" y="538.8529947834832" width="48" height="11.147005216516845" fill="#2563eb" />
+<rect x="907.7857142857142" y="536.6054930551192" width="48" height="2.247501728364" fill="#f59e0b" />
+<text x="931.7857142857142" y="578" text-anchor="end" transform="rotate(-20 931.7857142857142 578)" font-size="13" font-family="Arial" fill="#111827">motorcycle</text>
+<rect x="1059.9285714285716" y="493.75212117403055" width="48" height="56.24787882596945" fill="#2563eb" />
+<rect x="1059.9285714285716" y="476.0285337188109" width="48" height="17.723587455219672" fill="#f59e0b" />
+<text x="1083.9285714285716" y="578" text-anchor="end" transform="rotate(-20 1083.9285714285716 578)" font-size="13" font-family="Arial" fill="#111827">bicycle</text>
+<rect x="980" y="78" width="16" height="16" fill="#2563eb" />
+<text x="1004" y="90" font-size="13" font-family="Arial" fill="#111827">train</text>
+<rect x="980" y="104" width="16" height="16" fill="#f59e0b" />
+<text x="1004" y="116" font-size="13" font-family="Arial" fill="#111827">val</text>
+</svg>

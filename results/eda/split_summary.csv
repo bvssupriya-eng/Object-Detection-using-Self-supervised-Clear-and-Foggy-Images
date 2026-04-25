@@ -1,0 +1,4 @@
+split,source_clear_images,target_foggy_images
+train,2975,8925
+val,500,1500
+test,1525,4575

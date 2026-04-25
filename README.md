@@ -41,9 +41,7 @@ MachineVision/
 │   ├── reporting/              # report and presentation builders
 │   └── training/               # model training scripts
 ├── streamlit_app.py            # GUI for prediction and comparison
-├── requirements.txt            # local development dependencies
-├── requirements-kaggle.txt     # lighter dependency list for Kaggle training runs
-└── setup.md                    # local environment notes
+└── requirements.txt            # project dependencies
 ```
 
 ## Main Components
@@ -129,10 +127,6 @@ $env:YOLO_CONFIG_DIR="C:\MachineVision\.workspace\ultralytics"
 $env:JUPYTER_DATA_DIR="C:\MachineVision\.workspace\jupyter"
 .\.venv\Scripts\python -m ipykernel install --prefix .venv --name machinevision --display-name "Python (.venv) MachineVision"
 ```
-
-### Kaggle Environment
-
-Use `requirements-kaggle.txt` as the reference dependency list for training-oriented Kaggle runs.
 
 ## Suggested Workflow
 

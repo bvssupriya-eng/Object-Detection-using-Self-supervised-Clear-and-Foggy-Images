@@ -4,21 +4,17 @@ __pycache__/
 *.pyo
 *.pyd
 .ipynb_checkpoints/
-.workspace/
 runs/
 wandb/
 kaggle/working/
 datasets/raw/
-results/
 *.pt
 *.zip
 test_draw.png
 
-# Large generated preprocessing artifacts
 preprocessing/source_yolo/
 preprocessing/label_validation/
 preprocessing/*.csv
 
-# Keep small project docs inside preprocessing
 !preprocessing/README.md
 !preprocessing/preprocessing_summary.md

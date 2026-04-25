@@ -1,0 +1,8 @@
+class_name,train_count,val_count,total_count
+person,17994,3419,21413
+rider,1807,556,2363
+car,27155,4667,31822
+truck,489,93,582
+bus,385,98,483
+motorcycle,739,149,888
+bicycle,3729,1175,4904
