@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python
+pillow
+pyyaml
+tqdm
+scikit-learn
+albumentations
+pycocotools
+jupyterlab
+notebook
+ipykernel
+ultralytics
+streamlit
